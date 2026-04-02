@@ -4,6 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # BTC Next Day's Price Prediction Project
 
+Building AI course project
 Final project for the Building AI course
 
 ## Summary
